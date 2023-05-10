@@ -1,46 +1,49 @@
-# Getting Started with Create React App
+![dtmoney - Ignite](./.github/logo.svg)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![dtmoney - Ignite](./.github/navigation.gif)
 
-## Available Scripts
+- Application for financial control.
+- This is a project developed during **[Ignite](https://www.rocketseat.com.br/ignite)**, offered by **[Rocketseat](https://www.rocketseat.com.br)**.
 
-In the project directory, you can run:
+## ✨ Built with
 
-### `yarn start`
+- [React](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
+- [MirageJS](https://miragejs.com/)
+- [Axios](https://axios-http.com/docs/intro)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🎉 Deploy
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Deploy Web (Vercel): https://nlw-e-sports-3otu.vercel.app/
 
-### `yarn test`
+## 🔖 Layout
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- You can view the layout of the project through **[this link](<https://www.figma.com/file/0xmu9mj2TJYoIOubBFWsk5/dtmoney-Ignite-(Copy)?type=design&node-id=1-863&t=qPP0A78ICYUuXiB4-0>)**. You need an account on **[Figma](http://figma.com/)** to access it.
 
-### `yarn build`
+## 🚀 How to run
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+# Clone Repository
+$ git clone https://github.com/daniel-nicacio/dtmoney.git
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### web
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+# Insert in terminal
+$ cd dtmoney
+# Install Dependencies
+$ npm i
+# Run Application
+$ npm run start
+```
 
-### `yarn eject`
+## 👨‍💻 Built by
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- LinkedIn: https://www.linkedin.com/in/daniel-nic%C3%A1cio-figueiredo/
+- E-mail: danielfigueiredo789@gmail.com
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📄 License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
