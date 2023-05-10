@@ -31,8 +31,7 @@ createServer({
     });
   },
   routes() {
-    // rotas da api fictícia
-    this.namespace = "api"; // o mirage irá capitar todas as chamadas que tiverem o /api como chamadas que devem ser direcionadas para ele
+    this.namespace = "api";
 
     this.get("/transactions", () => {
       return this.schema.all("transaction");
