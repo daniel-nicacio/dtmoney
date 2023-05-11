@@ -35,7 +35,7 @@ $ git clone https://github.com/daniel-nicacio/dtmoney.git
 $ cd dtmoney
 # Install Dependencies
 $ npm i
-# Make a copy of '.env.local.example' to '.env.local'
+# Make a copy of '.env.example' to '.env'
 # and set with YOUR environment variables.
 # Run Application
 $ npm run start
