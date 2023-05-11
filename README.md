@@ -15,7 +15,7 @@
 
 ## 🎉 Deploy
 
-- Deploy Web (Vercel): https://nlw-e-sports-3otu.vercel.app/
+- Deploy Web (Vercel): https://dtmoney-murex.vercel.app/
 
 ## 🔖 Layout
 
@@ -35,6 +35,8 @@ $ git clone https://github.com/daniel-nicacio/dtmoney.git
 $ cd dtmoney
 # Install Dependencies
 $ npm i
+# Make a copy of '.env.local.example' to '.env.local'
+# and set with YOUR environment variables.
 # Run Application
 $ npm run start
 ```
